@@ -1,0 +1,83 @@
+
+let employee = `[
+    {
+        "unique_ID": "01",
+        "firstname": "Wahida",
+        "lastname": "Kartoffel",
+        "email_address": "wahida@gmail.com",
+        "job_title": "J.Webdeveloper",
+        "salary": "5.000€"
+    },
+    {
+        "unique_ID": "02",
+        "firstname": "Farida",
+        "lastname": "Pommes",
+        "email_address": "farida@gmail.com",
+        "job_title": "Kind",
+        "salary": "0€"
+    },
+    {
+        "unique_ID": "03",
+        "firstname": "Kakashi",
+        "lastname": "Hatake",
+        "email_address": "kakashi@gmail.com",
+        "job_title": "Senpai",
+        "salary": "4.000€"
+    },
+    {
+        "unique_ID": "04",
+        "firstname": "Naruto",
+        "lastname": "Uzumaki",
+        "email_address": "naruto@gmail.com",
+        "job_title": "Hokage",
+        "salary": "4.000€"
+    },
+    {
+        "unique_ID": "05",
+        "firstname": "Light",
+        "lastname": "Yagami",
+        "email_address": "yagami@gmail.com",
+        "job_title": "Murder",
+        "salary": "None"
+    },
+    {
+        "unique_ID": "06",
+        "firstname": "L",
+        "lastname": "Lawliet",
+        "email_address": "l.lawliet@gmail.com",
+        "job_title": "Police Officer",
+        "salary": "4.000€"
+    },
+    {
+        "unique_ID": "07",
+        "firstname": "Eren",
+        "lastname": "Jäger",
+        "email_address": "eren@gmail.com",
+        "job_title": "Fighter",
+        "salary": "6.000€"
+    },
+    {
+        "unique_ID": "08",
+        "firstname": "Mikasa",
+        "lastname": "Ackermann",
+        "email_address": "mikasa@gmail.com",
+        "job_title": "Fighter",
+        "salary": "6.000€"
+    },
+    {
+        "unique_ID": "09",
+        "firstname": "Levi",
+        "lastname": "Ackermann",
+        "email_address": "levi@gmail.com",
+        "job_title": "Fighter",
+        "salary": "6.000€"
+    },
+    {
+        "unique_ID": "10",
+        "firstname": "Armin",
+        "lastname": "Alert",
+        "email_address": "armin@gmail.com",
+        "job_title": "Analyst",
+        "salary": "5.000€"
+    }
+]`;
