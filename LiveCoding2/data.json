@@ -1,5 +1,5 @@
 let coursesJson = `[
-    {
+    { 
         "id": "01",
         "language": "JavaScript",
         "edition": "fifth",

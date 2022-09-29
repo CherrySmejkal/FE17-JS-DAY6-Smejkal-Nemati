@@ -1,0 +1,14 @@
+
+let sandwiches = `
+    {
+    "sandwich": "Hamburger",
+    "calories": "260"
+    }
+`;
+
+let fries = `
+    {
+    "fries_size": "Large French Fries",
+    "calories": "570"
+    }
+`;
