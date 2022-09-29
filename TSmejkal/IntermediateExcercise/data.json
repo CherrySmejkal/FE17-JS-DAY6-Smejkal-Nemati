@@ -1,3 +1,73 @@
-let employees = `{
-    
-}`
+let employees = `[
+    {
+        "UID" : "JS01",
+        "Firstname" : "Julia",
+        "Lastname": "Robert",
+        "Email" : "jr@abc.com",
+        "JobTitle": "Managing Director",
+        "Salary": 20000
+    },{
+        "UID" : "JS13",
+        "Firstname" : "Nikole",
+        "Lastname": "Kidman",
+        "Email" : "nk@abc.com",
+        "JobTitle": "HRManager",
+        "Salary": 10000
+    },{
+        "UID" : "JS45",
+        "Firstname" : "Don",
+        "Lastname": "Smith",
+        "Email" : "ds@abc.com",
+        "JobTitle": "IT Manager",
+        "Salary": 12000
+    },{
+        "UID" : "JS71",
+        "Firstname" : "Gloria",
+        "Lastname": "Stephan",
+        "Email" : "gs@abc.com",
+        "JobTitle": "HR",
+        "Salary": 4000
+    },{
+        "UID" : "JS59",
+        "Firstname" : "Tom",
+        "Lastname": "Berdy",
+        "Email" : "tb@abc.com",
+        "JobTitle": "HR",
+        "Salary": 3400
+    },{
+        "UID" : "JS65",
+        "Firstname" : "Roy",
+        "Lastname": "Jackson",
+        "Email" : "rj@abc.com",
+        "JobTitle": "Operation officer",
+        "Salary": 2700
+    },{
+        "UID" : "JS68",
+        "Firstname" : "Ella",
+        "Lastname": "Fin",
+        "Email" : "ef@abc.com",
+        "JobTitle": "Grafic Designer",
+        "Salary": 5000
+    },{
+        "UID" : "JS03",
+        "Firstname" : "Cory",
+        "Lastname": "Dillan",
+        "Email" : "cd@abc.com",
+        "JobTitle": "Creative Director",
+        "Salary": 15000
+    },{
+        "UID" : "JS93",
+        "Firstname" : "Bill",
+        "Lastname": "Ellis",
+        "Email" : "be@abc.com",
+        "JobTitle": "SEO Specialist",
+        "Salary": 6000
+    },{
+        "UID" : "JS76",
+        "Firstname" : "Diana",
+        "Lastname": "Glory",
+        "Email" : "dg@abc.com",
+        "JobTitle": "Admin",
+        "Salary": 2800
+    }
+]`;

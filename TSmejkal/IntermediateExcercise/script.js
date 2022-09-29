@@ -1,10 +1,5 @@
-
-
-
-
-
-
-
+let emList = JSON.parse(employees);
+console.table(emList);
 
 // It is not possible for this approach to create JSON Data from Class
 // let employeeList = [];
@@ -54,5 +49,3 @@
 // );
 
 // let emJson = JSON.stringify(employeeList);
-
-
