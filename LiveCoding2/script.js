@@ -29,7 +29,7 @@ for (let i = 0; i < register_btns.length; i++) {
     register_btns[i].addEventListener("click", function() {
         register(i); // register(0);  register(1)
     })
-}
+} 
 
 
 document.getElementById("sort").onclick = sortByRegisterValue;
